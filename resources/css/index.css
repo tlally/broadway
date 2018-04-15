@@ -9,11 +9,15 @@ h1 {
   color: white;
 }
 
-li {
+#Home
+p {
   font-size: 18px;
-  color: white;
-
 }
+
+#Home {
+  background-image: url(/Users/TLally/Desktop/CodeAcademy/Projects/Broadway/resources/images/the-flatiron-building.png)
+}
+
 
 div {
   display: block;
@@ -32,9 +36,7 @@ p {
   font-size: 14px
 }
 
-.background {
-  background-image: url("Broadway/resources/images/the-flatiron-building.png");
-}
+
 
 .footer
 p {
@@ -46,4 +48,11 @@ p {
 .footer
 a {
   font-size: 14px;
+}
+
+#banner {
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+  background-image: url("/Users/TLally/Desktop/CodeAcademy/Projects/Broadway/resources/images/the-flatiron-building.png");
 }
