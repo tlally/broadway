@@ -9,16 +9,15 @@ h1 {
   color: white;
 }
 
-.home {
-  background-image: url(./resources/images/the-flatiron-building.png);
-}
-
 li {
   font-size: 18px;
   color: white;
 
 }
 
+div {
+  display: block;
+}
 h2 {
   font-size: 32px;
   font-weight: bold;
@@ -33,12 +32,18 @@ p {
   font-size: 14px
 }
 
-.banner {
-  color: white;
-  background-image: url(./resources/images/the-flatiron-building.png);
+.background {
+  background-image: url("Broadway/resources/images/the-flatiron-building.png");
 }
 
-.footer,
+.footer
 p {
-  background-image: url(./resources/images/the-flatiron-building.png);
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+}
+
+.footer
+a {
+  font-size: 14px;
 }
