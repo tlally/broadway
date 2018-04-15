@@ -33,8 +33,7 @@ p {
   font-size: 14px
 }
 
-.banner,
-h3 {
+.banner {
   color: white;
   background-image: url(./resources/images/the-flatiron-building.png);
 }
