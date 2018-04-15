@@ -10,7 +10,7 @@ h1 {
 }
 
 .home {
-  background-image: url();
+  background-image: url(./resources/images/the-flatiron-building.png);
 }
 
 li {
@@ -36,10 +36,10 @@ p {
 .banner,
 h3 {
   color: white;
-  background-image: url();
+  background-image: url(./resources/images/the-flatiron-building.png);
 }
 
 .footer,
 p {
-  background-image: url();
+  background-image: url(./resources/images/the-flatiron-building.png);
 }
