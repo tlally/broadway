@@ -15,7 +15,7 @@ p {
 }
 
 #Home {
-  background-image: url(./resources/images/the-flatiron-building.png)
+  background-image: url("../images/the-flatiron-building.png")
 }
  #Home,
  a {
@@ -58,5 +58,5 @@ a {
   color: white;
   font-weight: bold;
   font-size: 23px;
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
 }
