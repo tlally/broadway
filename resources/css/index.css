@@ -17,7 +17,11 @@ p {
 #Home {
   background-image: url(/Users/TLally/Desktop/CodeAcademy/Projects/Broadway/resources/images/the-flatiron-building.png)
 }
-
+ #Home,
+ a {
+   color: white;
+   font-weight: normal;
+ }
 
 div {
   display: block;
